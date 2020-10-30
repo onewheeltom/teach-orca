@@ -5,7 +5,7 @@ Links to the original Orca command definitions plus some simplified ones
 * [b.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/b.orca)
 * [c.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/c.orca)
 * d.orca
-* e.orca - also see [cardinals.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/benchmarks/cardinals.orca)
+* [e.orca](./e.orca) - also see [cardinals.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/benchmarks/cardinals.orca)
 * [f.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/f.orca)
 * [g.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/g.orca)
 * [h.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/h.orca)
