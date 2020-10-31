@@ -31,9 +31,9 @@ Links to the original Orca command definitions plus some simplified ones
 * \# **comment**: Halts a line
 
 ## sending notes
-* [midi.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/_midi.orca)
-* [osc.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/_osc.orca)
-* [udp.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/_udp.orca)
+* [midi](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/_midi.orca): Sending notes to a software or hardware MIDI device
+* [osc](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/_osc.orca): Sending notes using Open Sound Control (OSC)
+* [udp](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/_udp.orca): Sending notes over a network with UDP
 
 ## orca-examples
 * [basics](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics): Command definitions on the main Orca site
