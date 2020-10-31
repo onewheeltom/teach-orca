@@ -27,8 +27,17 @@ Links to the original Orca command definitions plus some simplified ones
 * [X](./x.orca) **write**(*x* *y* val):Writes operand with offset
 * [Y](./y.orca) **jymper**(*val*):Outputs westward operand
 * [Z](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/z.orca) **lerp**(*rate* target):Fades input to output at rate
+* \* **bang**: Bangs neighboring operands
+* \# **comment**: Halts a line
 
 ## sending notes
 * [midi.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/_midi.orca)
 * [osc.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/_osc.orca)
 * [udp.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/_udp.orca)
+
+## orca-examples
+* [basics](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics): Command definitions on the main Orca site
+* [benchmarks](https://git.sr.ht/~rabbits/orca-examples/tree/master/benchmarks): Examples of categorized commands in context
+* [misc](https://git.sr.ht/~rabbits/orca-examples/tree/master/misc): Various examples of Orca coding technique
+* [setups](https://git.sr.ht/~rabbits/orca-examples/tree/master/setups): Examples of techniques for sending data 
+* [tutorial](https://git.sr.ht/~rabbits/orca-examples/tree/master/tutorial): Orca tutorial 
