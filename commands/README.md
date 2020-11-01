@@ -1,12 +1,16 @@
 # Orca - a two dimensional esoteric programming language
-Original archive is here [https://github.com/hundredrabbits/Orca](https://github.com/hundredrabbits/Orca)
+Original archive is here [https://github.com/hundredrabbits/Orca](https://github.com/hundredrabbits/Orca). 
+
 I have replaced some of the command definitions with simpler ones and defined each command separately.
 My changes/updates are marked with an :asterisk:. Original definitions are linked at the end of that line.
+
+- [About Orca](https://git.sr.ht/~rabbits/orca#orc)
+
 ## commands
 * [A](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/a.orca) add(*a* b):Outputs sum of inputs
 * [B](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/b.orca) **subtract**(*a* b):Outputs difference of inputs
 * [C](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/c.orca) **clock**(*rate* mod):Outputs modulo of frame
-* d.orca delay(*rate* mod):asterisk:
+* [D](./d.orca) **delay** (*rate* mod):asterisk: Bangs on modulo of frame :asterisk: [Original definition](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/d.orca)
 * [E](./e.orca) **east**:Moves eastward or bangs:asterisk: - also see [cardinals.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/benchmarks/cardinals.orca)
 * [F](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/f.orca) **if**(*a* b):Bangs if inputs are equal
 * [G](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/g.orca) **generator**(*x* *y* *len*):Writes operands with offset
@@ -42,4 +46,4 @@ My changes/updates are marked with an :asterisk:. Original definitions are linke
 * [benchmarks](https://git.sr.ht/~rabbits/orca-examples/tree/master/benchmarks): Examples of categorized commands in context
 * [misc](https://git.sr.ht/~rabbits/orca-examples/tree/master/misc): Various examples of Orca coding technique
 * [setups](https://git.sr.ht/~rabbits/orca-examples/tree/master/setups): Examples of techniques for sending data 
-* [tutorial](https://git.sr.ht/~rabbits/orca-examples/tree/master/tutorial): Orca tutorial 
+* [tutorial](https://git.sr.ht/~rabbits/orca-examples/tree/master/tutorial): Interactive Orca tutorial using Orca code [Instructions](https://git.sr.ht/~rabbits/orca-examples/tree/master/tutorial/README.md)
