@@ -10,8 +10,8 @@ My changes/updates are marked with an :asterisk:. Original definitions are linke
 * [A](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/a.orca) add(*a* b):Outputs sum of inputs
 * [B](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/b.orca) **subtract**(*a* b):Outputs difference of inputs
 * [C](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/c.orca) **clock**(*rate* mod):Outputs modulo of frame
-* [D](./d.orca) **delay** (*rate* mod):asterisk: Bangs on modulo of frame :asterisk: [Original definition](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/d.orca)
-* [E](./e.orca) **east**:Moves eastward or bangs:asterisk: - also see [cardinals.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/benchmarks/cardinals.orca)
+* [D](https://docs.google.com/spreadsheets/d/1uTc0G1ZM6YOZMSro9523Htooc0q2ke16_3YjUeXDtRk/edit?usp=sharing) **delay** (*rate* mod):asterisk: Bangs on modulo of frame :asterisk: [Original definition](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/d.orca)
+* [E](https://docs.google.com/spreadsheets/d/1uTc0G1ZM6YOZMSro9523Htooc0q2ke16_3YjUeXDtRk/edit?usp=sharing) **east**:Moves eastward or bangs:asterisk: - also see [cardinals.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/benchmarks/cardinals.orca)
 * [F](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/f.orca) **if**(*a* b):Bangs if inputs are equal
 * [G](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/g.orca) **generator**(*x* *y* *len*):Writes operands with offset
 * [H](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/h.orca) **halt** Halts southward operand
