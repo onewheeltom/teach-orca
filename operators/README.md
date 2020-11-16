@@ -1,20 +1,19 @@
 # Operators 
-Operators are single letter commands (Orca has 26) which interact with data and other commands n the grid
+Operators are single letter commands (Orca has 26) which interact with data and other commands in the grid
 
-I have replaced some of the command definitions with simpler ones and defined each command separately.
+I have added simpler definitions for some of the more complex command examples
 My changes/updates are marked with an :asterisk:. Original definitions are linked at the end of that line.
 
-## commands
 * [A](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/a.orca) add(*a* b):Outputs sum of inputs
 * [B](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/b.orca) **subtract**(*a* b):Outputs difference of inputs
 * [C](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/c.orca) **clock**(*rate* mod):Outputs modulo of frame
-* [D](https://docs.google.com/spreadsheets/d/1uTc0G1ZM6YOZMSro9523Htooc0q2ke16_3YjUeXDtRk/edit?usp=sharing) **delay** (*rate* mod):asterisk: Bangs on modulo of frame :asterisk: [Original definition](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/d.orca)
-* [E](https://docs.google.com/spreadsheets/d/1uTc0G1ZM6YOZMSro9523Htooc0q2ke16_3YjUeXDtRk/edit?usp=sharing) **east**:Moves eastward or bangs:asterisk: - also see [cardinals.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/benchmarks/cardinals.orca)
+* [D](https://docs.google.com/spreadsheets/d/1uTc0G1ZM6YOZMSro9523Htooc0q2ke16_3YjUeXDtRk/edit#gid=1544391754) **delay** (*rate* mod):asterisk: Bangs on modulo of frame :asterisk: [Original definition](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/d.orca)
+* [E](https://docs.google.com/spreadsheets/d/1uTc0G1ZM6YOZMSro9523Htooc0q2ke16_3YjUeXDtRk/edit#gid=1022297745) **east**:Moves eastward or bangs:asterisk: - also see [cardinals.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/benchmarks/cardinals.orca)
 * [F](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/f.orca) **if**(*a* b):Bangs if inputs are equal
 * [G](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/g.orca) **generator**(*x* *y* *len*):Writes operands with offset
 * [H](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/h.orca) **halt** Halts southward operand
 * [I](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/i.orca) **increment**(*step* mod): Increments southward operand by step
-* [J](./j.orca) **jumper**(*val*): Outputs northward operand to the south :asterisk: [Original definition](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/j.orca)
+* [J](https://docs.google.com/spreadsheets/d/1uTc0G1ZM6YOZMSro9523Htooc0q2ke16_3YjUeXDtRk/edit#gid=848624817) **jumper**(*val*): Outputs northward operand to the south :asterisk: [Original definition](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/j.orca)
 * [K](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/k.orca) **koncat**(*len*): Reads multiple variables
 * [L](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/l.orca) **less**(*a* b):Outputs smallest of inputs
 * [M](./m.orca) **multiply**(*a* b):Outputs product of inputs :asterisk:
