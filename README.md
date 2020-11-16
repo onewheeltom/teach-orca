@@ -1,5 +1,3 @@
-# Teaching Orca
-
 # Orca - a two dimensional esoteric programming language
 
 The creator of Orca, Devine Lu Linvga, calls Orca a "esoteric programming language". Orca has some interesting characteristics :
