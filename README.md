@@ -9,7 +9,7 @@
 * [osc](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/_osc.orca): Sending notes using Open Sound Control (OSC)
 * [udp](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/_udp.orca): Sending notes over a network with UDP
 
-## orca-examples
+## examples
 * [basics](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics): Command definitions on the main Orca site
 * [benchmarks](https://git.sr.ht/~rabbits/orca-examples/tree/master/benchmarks): Examples of categorized commands in context
 * [misc](https://git.sr.ht/~rabbits/orca-examples/tree/master/misc): Various examples of Orca coding technique
