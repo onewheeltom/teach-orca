@@ -1,4 +1,11 @@
-## operators
+## Operators
+
+Operators are single letter commands (Orca has 26) which interact with data and other commands in the grid
+
+I have added simpler definitions for some of the more complex command examples
+
+Original definitions are linked at the end of those lines.
+
 * [A](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/a.orca) add(*a* b):Outputs sum of inputs
 * [B](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/b.orca) **subtract**(*a* b):Outputs difference of inputs
 * [C](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/c.orca) **clock**(*rate* mod):Outputs modulo of frame
