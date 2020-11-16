@@ -1,14 +1,12 @@
 # Orca - a two dimensional esoteric programming language
 
 The creator of Orca, Devine Lu Linvga, calls Orca a "esoteric programming language". Orca has some interesting characteristics :
+
 * Orca operates in a 2 dimensional grid. 
 * All Orca operations (like commands in a program) are a single letter of the alphabet.
 * Commands are processed left to right and top to bottom in the grid. 
 
-- [About Orca](https://git.sr.ht/~rabbits/orca#orc)
-- [Orca archive](https://github.com/hundredrabbits/Orca)
-
-* ### [operators](operators) - the default Orca operators, plus some simplified versions that are more appropriate for those just starting to learn Orca
+* ### [Operators](operators) - the default Orca operators, plus some simplified versions that are more appropriate for those just starting to learn Orca
 * ### [commands](orca_commands.pdf) - Orca commands interact with the Orca environment
 
 ## Sending notes and creating sound with Orca
@@ -23,6 +21,8 @@ The creator of Orca, Devine Lu Linvga, calls Orca a "esoteric programming langua
 * [setups](https://git.sr.ht/~rabbits/orca-examples/tree/master/setups): Examples of techniques for sending data 
 * [tutorial](https://git.sr.ht/~rabbits/orca-examples/tree/master/tutorial): Interactive Orca tutorial using Orca code [Instructions](https://git.sr.ht/~rabbits/orca-examples/tree/master/tutorial/README.md)
 
-# Links
+## Links
 * [Orca podcast on Future of Coding #45](https://futureofcoding.org/episodes/045)
 * [Orca demo video - a short sample of how Orca works](https://www.youtube.com/watch?v=RaI_TuISSJE)
+* [About Orca](https://git.sr.ht/~rabbits/orca#orc)
+* [Orca archive](https://github.com/hundredrabbits/Orca)
