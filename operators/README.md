@@ -16,12 +16,12 @@ My changes/updates are marked with an :asterisk:. Original definitions are linke
 * [J](https://docs.google.com/spreadsheets/d/1uTc0G1ZM6YOZMSro9523Htooc0q2ke16_3YjUeXDtRk#gid=848624817) **jumper**(*val*): Outputs northward operand to the south  [Original definition](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/j.orca)
 * [K](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/k.orca) **koncat**(*len*): Reads multiple variables
 * [L](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/l.orca) **less**(*a* b):Outputs smallest of inputs
-* [M](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/m.orca) **multiply**(*a* b):Outputs product of inputs :asterisk:
+* [M](https://docs.google.com/spreadsheets/d/1uTc0G1ZM6YOZMSro9523Htooc0q2ke16_3YjUeXDtRk#gid=792065870) **multiply**(*a* b):Outputs product of inputs
 * [N](https://docs.google.com/spreadsheets/d/1uTc0G1ZM6YOZMSro9523Htooc0q2ke16_3YjUeXDtRk#gid=782076382) **north**:Moves Northward or bangs -  also see [cardinals.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/benchmarks/cardinals.orca)
-* [O](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/o.orca) **read**(*xy* read):Reads operand with offset
-* [P](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/p.orca) **push**(*len *key* val):Writes eastward operator
-* [Q](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/q.orca) **query**(*x* *y* *len*):Reads operands with offset
-* [R](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/r.orca) **random**(*min* max):Outputs random value
+* [O](https://docs.google.com/spreadsheets/d/1uTc0G1ZM6YOZMSro9523Htooc0q2ke16_3YjUeXDtRk#gid=516599666) **read**(*xy* read):Reads operand with offset
+* [P](https://docs.google.com/spreadsheets/d/1uTc0G1ZM6YOZMSro9523Htooc0q2ke16_3YjUeXDtRk#gid=861724472) **push**(*len *key* val):Writes eastward operator
+* [Q](https://docs.google.com/spreadsheets/d/1uTc0G1ZM6YOZMSro9523Htooc0q2ke16_3YjUeXDtRk#gid=1080828800) **query**(*x* *y* *len*):Reads operands with offset
+* [R](https://docs.google.com/spreadsheets/d/1uTc0G1ZM6YOZMSro9523Htooc0q2ke16_3YjUeXDtRk#gid=366918395) **random**(*min* max):Outputs random value
 * [S](https://docs.google.com/spreadsheets/d/1uTc0G1ZM6YOZMSro9523Htooc0q2ke16_3YjUeXDtRk#gid=1145454981) **south**:Moves southward or bangs - also see [cardinals.orca](https://git.sr.ht/~rabbits/orca-examples/tree/master/benchmarks/cardinals.orca)
 * [T](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/t.orca) **track**(*key* *len* val):Reads eastward operand
 * [U](https://docs.google.com/spreadsheets/d/1uTc0G1ZM6YOZMSro9523Htooc0q2ke16_3YjUeXDtRk#gid=1215575674) **uclid**(*step* max): Bangs on Euclidean rhythm [Original definition](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/u.orca)
