@@ -7,3 +7,4 @@ TED490 - Fall 2020
 MEd program  
 College of Education  
 NC State University  
+twk@ncsu.edu
