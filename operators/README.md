@@ -34,3 +34,9 @@ Original definitions are linked at the end of those lines.
 * [Z](https://docs.google.com/spreadsheets/d/1uTc0G1ZM6YOZMSro9523Htooc0q2ke16_3YjUeXDtRk#gid=933294220) **lerp**(*rate* target):Fades input to output at rate [Original definition of Z](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/z.orca)
 * \* **bang**: Bangs neighboring operands
 * \# **comment**: Halts a line
+
+
+
+
+
+[Home](https://onewheeltom.github.io/teach-orca/)
