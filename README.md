@@ -1,7 +1,7 @@
 # ORCA - a two dimensional esoteric programming language
 
-This site is an cross-reference/adaptation of content at the main [ORCA GitHub repository](https://github.com/hundredrabbits/Orca)
-Please use these materials as you see fit, and contact me with corrections. 
+This site is an cross-reference/adaptation of content at the main [ORCA GitHub repository](https://github.com/hundredrabbits/Orca)  
+Please use these materials as you see fit, and contact me with corrections.  
 
 [About this project](./about_this_project.md)
 
