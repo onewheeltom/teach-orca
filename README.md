@@ -26,11 +26,11 @@ The creator of Orca, [Devine Lu Linvega](https://wiki.xxiivv.com/site/devine_lu_
 * [udp](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics/_udp.orca): Sending notes over a network with UDP
 
 ## Examples of Orca patterns
-* [basics](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics): Command definitions on the main Orca site
-* [benchmarks](https://git.sr.ht/~rabbits/orca-examples/tree/master/benchmarks): Examples of categorized commands in context
-* [misc](https://git.sr.ht/~rabbits/orca-examples/tree/master/misc): Interesting examples of Orca coding technique
-* [setups](https://git.sr.ht/~rabbits/orca-examples/tree/master/setups): Examples of techniques for interacting with Orca 
-* [tutorial](https://git.sr.ht/~rabbits/orca-examples/tree/master/tutorial): Interactive Orca tutorial using Orca code [Instructions](https://git.sr.ht/~rabbits/orca-examples/tree/master/tutorial/README.md)
+* [basics](https://git.sr.ht/~rabbits/orca-examples/tree/master/basics): Operator definitions
+* [benchmarks](https://git.sr.ht/~rabbits/orca-examples/tree/master/benchmarks): Using categorized operators in context
+* [misc](https://git.sr.ht/~rabbits/orca-examples/tree/master/misc): Interesting Orca coding techniques
+* [setups](https://git.sr.ht/~rabbits/orca-examples/tree/master/setups): Techniques for interacting with Orca 
+* [tutorial](https://git.sr.ht/~rabbits/orca-examples/tree/master/tutorial): Interactive Orca tutorial using Orca code [(Instructions)](https://git.sr.ht/~rabbits/orca-examples/tree/master/tutorial/README.md)
 
 ## Links
 * [Orca podcast on Future of Coding #45](https://futureofcoding.org/episodes/045)
