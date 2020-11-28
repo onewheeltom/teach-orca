@@ -1,17 +1,17 @@
 # ORCA - a two dimensional esoteric programming language
 
-This site is an cross-reference/adaptation of content at the main [ORCA GitHub repository](https://github.com/hundredrabbits/Orca)  
+This is intended to build on content at the main [ORCA GitHub repository](https://github.com/hundredrabbits/Orca) to facilitate classroom learning. Thank you to [Devine Lu Linvega](https://wiki.xxiivv.com/site/devine_lu_linvega.html) for creating such an interesting way to approach programming. And answering my many questions.  
+
 Please use these materials as you see fit, and contact me with corrections.  
 
 [About this project](./about_this_project.md)
 
-The creator of Orca, Devine Lu Linvga, calls Orca a "esoteric programming language". 
+The creator of Orca, [Devine Lu Linvega](https://wiki.xxiivv.com/site/devine_lu_linvega.html), calls Orca a "esoteric programming language".  Orca is an interactive [live coding](https://en.wikipedia.org/wiki/Live_coding) environment where code and data can be changed while running. [Live coding](https://en.wikipedia.org/wiki/Live_coding) environments are mostly used for creative performance.
 
+## About ORCA
 * Orca operates in a 2 dimensional grid which is processed left to right, top to bottom
-* Each Orca operator (like commands in a program) and its' data is a single letter of the alphabet.
-* Orca is an interactive [live coding](https://en.wikipedia.org/wiki/Live_coding) environment where code and data can be changed while running
-
-[Live coding](https://en.wikipedia.org/wiki/Live_coding) environments are prominently used for creative performance
+* Each Orca operator (like commands in a program) is a single letter and its' data is also in the grid.
+* Operators interact when placed in physical proximity to each other
 
 ## ORCA documentation and workshop
 * ### [Orca operators](operators) and documentation for differing levels of coding experience 
