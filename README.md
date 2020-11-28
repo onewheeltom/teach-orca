@@ -6,7 +6,7 @@ This project is intended to build on content at the main [ORCA GitHub repository
 
 Please use these materials as you see fit, and contact me with corrections.  
 
-### About Orca
+## About Orca
 The creator of Orca, [Devine Lu Linvega](https://wiki.xxiivv.com/site/devine_lu_linvega.html), calls Orca a "esoteric programming language".  Orca is an interactive [live coding](https://en.wikipedia.org/wiki/Live_coding) environment where code and data can be changed while running. [Live coding](https://en.wikipedia.org/wiki/Live_coding) environments are mostly used for creative performance.
 
 ## How ORCA works
