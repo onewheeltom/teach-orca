@@ -14,7 +14,7 @@ The creator of Orca, Devine Lu Linvga, calls Orca a "esoteric programming langua
 [Live coding](https://en.wikipedia.org/wiki/Live_coding) environments are prominently used for creative performance
 
 ## ORCA documentation and workshop
-* ### [Orca operators](operators) and simplified documentation which is more appropriate for learning 
+* ### [Orca operators](operators) and documentation for differing levels of coding experience 
 * ### [Orca commands](./orca_commands.pdf) interact with the Orca environment (printable PDF)
 * ### [Orca workshop (PDF)](./Orca_workshop.pdf) Classroom adaptation based on Orca workshop content
 * ### [Orca workshop (PowerPoint)](./Orca_workshop.pptx) Classroom adaptation based on Orca workshop content
