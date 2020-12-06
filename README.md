@@ -17,7 +17,6 @@ The creator of Orca, [Devine Lu Linvega](https://wiki.xxiivv.com/site/devine_lu_
 ## ORCA documentation and workshop
 * ### [Orca operators](operators) and documentation for differing levels of coding experience 
 * ### [Orca commands](./orca_commands.pdf) interact with the Orca environment (printable PDF)
-* ### [Orca workshop files](workshop) Classroom adaptation based on Orca workshop content
 * ### [Orca workshop (PDF)](workshop/Orca_workshop.pdf) Classroom adaptation based on Orca workshop content
 * ### [Orca workshop (PowerPoint)](workshop/Orca_workshop.pptx) Classroom adaptation based on Orca workshop content
 
