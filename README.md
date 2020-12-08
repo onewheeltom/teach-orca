@@ -43,3 +43,7 @@ The creator of Orca, [Devine Lu Linvega](https://wiki.xxiivv.com/site/devine_lu_
 ## Run Orca in a browser
 * [orca.wtf](http://orca.wtf) - Orca and synth in a window...the URL contains the code to this Orca program, can be copied
 * [learn-orca](https://metasyn.github.io/learn-orca/) - Orca tutorial with Orca and Enfer in the browser
+
+## Out there
+*  [A CPU implemented in Orca](https://merveilles.town/@eel/105300528019648239)
+
