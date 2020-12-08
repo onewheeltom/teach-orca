@@ -33,6 +33,7 @@ The creator of Orca, [Devine Lu Linvega](https://wiki.xxiivv.com/site/devine_lu_
 * [tutorial](https://git.sr.ht/~rabbits/orca-examples/tree/master/tutorial): Interactive Orca tutorial using Orca code [(Instructions)](https://git.sr.ht/~rabbits/orca-examples/tree/master/tutorial/README.md)
 
 ## Links
+* [Orca forum](https://llllllll.co/t/orca-livecoding-tool/17689)
 * [Orca podcast on Future of Coding #45](https://futureofcoding.org/episodes/045)
 * [Orca demo video - a short sample of how Orca works](https://www.youtube.com/watch?v=RaI_TuISSJE)
 * [Orca basic tutorial](https://git.sr.ht/~rabbits/orca-examples#basics) that can be copied and pasted into the Orca environment
