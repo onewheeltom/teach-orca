@@ -38,3 +38,8 @@ The creator of Orca, [Devine Lu Linvega](https://wiki.xxiivv.com/site/devine_lu_
 * [Orca basic tutorial](https://git.sr.ht/~rabbits/orca-examples#basics) that can be copied and pasted into the Orca environment
 * [Orca implementation in C](https://git.sr.ht/~rabbits/orca#orc)
 * [Orca archive](https://github.com/hundredrabbits/Orca) - Home of the Orca project. Many more examples and learning material
+* [Orca on Norns](https://llllllll.co/t/orca/22492) - Lua port of Orca runs on Norns 
+
+## Run Orca in a browser
+* [orca.wtf](http://orca.wtf) - Orca and synth in a window...the URL contains the code to this Orca program, can be copied
+* [learn-orca](https://metasyn.github.io/learn-orca/) - Orca tutorial with Orca and Enfer in the browser
